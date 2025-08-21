@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-<p align="left">
+<p align="center">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,19 +26,14 @@
   <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deepseek-222222?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Llama-0080FF?style=for-the-badge&logo=meta&logoColor=white"/>
-
-  <!-- Outras -->
-  <img src="https://img.shields.io/badge/Freshdesk-008060?style=for-the-badge&logo=freshworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arkmedess&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkmedess&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
