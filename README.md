@@ -39,7 +39,7 @@
 ---
 
 ## 📂 Projetos em destaque
-- 📘 **[Estats](#)** → Sistema didático de estatística em **C# WinForms**.  
+- 📘 **[Estats](https://github.com/Arkmedess/Estats)** → Sistema didático de estatística em **C# WinForms**.  
 - 🤖 **[Prompt Engineering](#)** → Repositório de **prompts avançados** para análise documental. (Em criação)
 
 ---
