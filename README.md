@@ -1,7 +1,7 @@
 <!-- TÍTULO ARCADE: Usa a fonte Press Start 2P para o efeito 8-bit real -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=PLAYER_1:+ARKMEDESS;CLASS:+TECH_WIZARD;PRESS+START+TO+CONNECT..." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=PLAYER_1:+ARKMEDESS;CLASS:+TECH_WIZARD;PRESS+START+TO+CONNECT..." alt="Typing SVG" />
     </a>
 </div>
 
@@ -24,14 +24,16 @@
   <tr>
 <!-- COLUNA DA ESQUERDA: AVATAR / PERSONAGEM -->
 <td style="width: 30%; text-align: center; border: none;">
-      <img src="https://media.tenor.com/RWb8nW4xlEMAAAAM/link-video-game.gif" style="width:100px">
-      <br><br>
-      <img src="https://img.shields.io/badge/LVL-22-blue?style=for-the-badge&labelColor=black&color=1a7f37">
-      <br>
-      <img src="https://img.shields.io/badge/HP-100%25-red?style=for-the-badge&labelColor=black&color=c93c37">
-      <br>
-      <img src="https://img.shields.io/badge/MP-MAX-blue?style=for-the-badge&labelColor=black&color=1f6feb">
-    </td>
+        <img src="https://media.tenor.com/RWb8nW4xlEMAAAAM/link-video-game.gif" style="width:100px">
+        <img src="https://github.com/user-attachments/assets/4be4dc8d-638b-41e8-988a-d994d8802cbd" style="width:100px")>
+
+<br><br>
+        <img src="https://img.shields.io/badge/LVL-22-blue?style=for-the-badge&labelColor=black&color=1a7f37">
+<br>
+        <img src="https://img.shields.io/badge/HP-100%25-red?style=for-the-badge&labelColor=black&color=c93c37">
+<br>
+        <img src="https://img.shields.io/badge/MP-MAX-blue?style=for-the-badge&labelColor=black&color=1f6feb">
+</td>
 
 <!-- COLUNA DA DIREITA: QUEST LOG (BIO) -->
 <td width="70%" style="border: 0;">
@@ -56,20 +58,16 @@
 
   <br><br>
   <h3 style="font-family: monospace;">[ INVENTORY / EQUIPMENT ]</h3>
-  
+  <br>
 <!-- ÍCONES 8-BIT ESTILIZADOS -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,visualstudio,vscode,postgres,git,github,docker&perline=9&theme=dark" />
-  <br><br><br><br>
-<img src="https://skillicons.dev/icons?i=python&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=docker&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=postgres&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=cs&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mongo&perline=9&theme=dark" />
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Python/python3x.png?raw=true" /> &nbsp; &nbsp;
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/CSharp/csharp3x.png?raw=true" /> &nbsp; &nbsp;
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Postgres/postgres3x.png?raw=true" /> &nbsp; &nbsp;
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Mongo/mongo3x.png?raw=true" /> &nbsp; &nbsp;
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Git/git3x.png?raw=true" /> &nbsp; &nbsp;
+<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Docker/docker3x.png?raw=true" />
 </div>
-
-<br><br>
-
+  <br><br>
 <!-- STATUS SCREEN (STATS) -->
 <div align="center">
   <h3 style="font-family: monospace;">[ PLAYER STATS ]</h3>
