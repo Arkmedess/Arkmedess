@@ -24,8 +24,7 @@
   <tr>
 <!-- COLUNA DA ESQUERDA: AVATAR / PERSONAGEM -->
 <td style="width: 30%; text-align: center; border: none;">
-        <img src="https://media.tenor.com/RWb8nW4xlEMAAAAM/link-video-game.gif" style="width:100px">
-        <img src="https://github.com/user-attachments/assets/4be4dc8d-638b-41e8-988a-d994d8802cbd" style="width:100px")>
+        <img src="https://github.com/user-attachments/assets/2efa64a4-cf67-42fa-81e5-2181b2f0c531" style="width:100px")>
 
 <br><br>
         <img src="https://img.shields.io/badge/LVL-22-blue?style=for-the-badge&labelColor=black&color=1a7f37">
@@ -57,15 +56,25 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
   <br><br>
-  <h3 style="font-family: monospace;">[ INVENTORY / EQUIPMENT ]</h3>
+  <h3 style="font-family: monospace;">[ INVENTORY OF TECH STACK ]</h3>
   <br>
 <!-- ÍCONES 8-BIT ESTILIZADOS -->
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Python/python3x.png?raw=true" /> &nbsp; &nbsp;
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/CSharp/csharp3x.png?raw=true" /> &nbsp; &nbsp;
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Postgres/postgres3x.png?raw=true" /> &nbsp; &nbsp;
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Mongo/mongo3x.png?raw=true" /> &nbsp; &nbsp;
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Git/git3x.png?raw=true" /> &nbsp; &nbsp;
-<img src="https://github.com/Arkmedess/Arkmedess/blob/main/assets/Docker/docker3x.png?raw=true" />
+<img width="95" height="96" alt="PythonSlot" src="https://github.com/user-attachments/assets/8548ac13-db15-4029-9fea-f8eddcad8cbb" />
+<img width="95" height="96" alt="CsharpSlot" src="https://github.com/user-attachments/assets/9ee90b7f-ec47-4680-9d88-6e6d258db4ec" />
+<img width="95" height="96" alt="PostgreSlot" src="https://github.com/user-attachments/assets/8b391d75-67a6-4484-9a9e-d5a840953248" />
+<img width="95" height="96" alt="MongoSlot" src="https://github.com/user-attachments/assets/f4237abd-d6ea-480b-9d67-d0ab0166770c" />
+<img width="95" height="96" alt="DockerSlot" src="https://github.com/user-attachments/assets/ebba84ab-e570-491f-83a0-aeacc104e618" />
+<img width="95" height="96" alt="GItSlot" src="https://github.com/user-attachments/assets/4677a0bf-6ee8-4635-bb67-1c6d831ff251" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/bbb80c7e-ec41-44fa-9e4b-3d9875210d48" /> <br>
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+<img width="95" height="96" alt="SlotIcon" src="https://github.com/user-attachments/assets/9cdb04c6-b2e5-4031-9cff-d0c249f523bb" />
+
+
 </div>
   <br><br>
 <!-- STATUS SCREEN (STATS) -->
@@ -79,51 +88,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <br><br>
-
-  <h3 style="font-family: monospace;">🎒 INVENTORY (EQUIPPED)</h3>
-
-  <table align="center" cellpadding="6">
-    <tr>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        ⚔️ <b>C#</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        📜 <b>.NET</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        🧪 <b>Python</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        📦 <b>Docker</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        🧠 <b>PostgreSQL</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        ⚙️ <b>Git</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        🧰 <b>VS Code</b>
-      </td>
-      <td align="center">
-        <img src="https://opengameart.org/sites/default/files/slot.png" width="64"><br>
-        EMPTY
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- RODAPÉ GAME OVER / INSERT COIN -->
 <div align="center">
