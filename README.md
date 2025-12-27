@@ -28,15 +28,11 @@
   <div style="background-color: #161b22; padding: 15px; border-radius: 5px; border: 2px solid #30363d; font-family: 'Courier New', monospace; color: #8b949e;">
         $\tt \color{#58A6FF}{> \ LOAD \ "PROFILE.DAT"}$ <br>
         $\tt \color{#3fb950}{> SUCCESS!}$ <br> <br>
-        <b>[CLASS]:</b> Tech Wizard / Data Alchemist<br>
-        <b>[BIO]:</b> Desenvolvedor focado em craftar soluções de automação. Especialista em traduzir pergaminhos antigos em dados estruturados.<br>
+        <b>[CLASS]:</b> Software Developer and Data Analyst <br>
+        <b>[BIO]:</b> Desenvolvedor focado em construir soluções de alto valor agregado. <br>
         <br>
         <b>[CURRENT QUEST]:</b><br>
-        └─ ⚔ Expandir domínios em Engenharia de Prompts<br>
-        └─ 🏰 Construir Arquitetura .NET Escálavel<br>
-        <br>
-        <b>[PASSIVE SKILL]:</b><br>
-        <span style="color: #d29922;">★ Autodidata (Learning Rate +50%)</span>
+        └─ Desenvolver o Estats em versão web <br>
     </div>
 </td>
   </tr>
@@ -48,9 +44,8 @@
 <!-- INVENTÁRIO (TECH STACK) -->
 <div align="center">
         <img src="https://i.imgur.com/IsIEmNT.png" border="0" alt="Tech Inventory">
-        <br>
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=1000&color=FF&center=true&width=500&lines=%5B+INVENTORY+OF+TECH+STACK+%5D" alt="Inventory" />
+            <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&pause=1000&color=FF&center=true&width=600&lines=%5B+EQUIPPED+WEAPONS+AND+SPELLS+%5D" alt="Inventory" />
         </a>
 <br>
 <!-- ÍCONES 8-BIT ESTILIZADOS -->
@@ -100,7 +95,3 @@
   <a href="mailto:arthurvictor3434@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-COIN_UP-red?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=101010">
   </a>
-
-  <br><br>
-  <p style="font-family: monospace; color: #8b949e;">© 2025 ARKMEDESS // GAME OVER</p>
-</div>
