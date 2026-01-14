@@ -11,38 +11,44 @@
   </p>
 
   <br>
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png" alt="Diamond" width="15" height="15" style="opacity: 0.5;" />
+  
+  <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
 
   <br><br>
 
 <p align="center">
-  <img src="assets/Python.png" alt="Python" title="Python" align="middle" />
+  <img src="assets/Pandas.svg" alt="Pandas" title="Pandas" align="middle" />
   &nbsp; • &nbsp;
-  <img src="assets/Pandas.png" alt="Pandas" title="Pandas" align="middle" />
+  <img src="assets/Streamlit.svg" alt="Streamlit" title="Streamlit" align="middle" />
   &nbsp; • &nbsp;
-  <img src="assets/NextJs.png" alt="NextJS" title="NextJS" align="middle" />
+  <img src="assets/Python.svg" alt="Python" title="Python" align="middle" />
   &nbsp; • &nbsp;
-  <img src="assets/Streamlit.png" alt="Streamlit" title="Streamlit" align="middle" />
+  <img src="assets/NextJs.svg" alt="NextJS" title="NextJS" align="middle" />
   &nbsp; • &nbsp;
-  <img src="assets/FastAPI.png" alt="FastAPI" title="FastAPI" align="middle" />
+  <img src="assets/FastAPI.svg" alt="FastAPI" title="FastAPI" align="middle" />
 </p>
-<br><br>
+<br>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Small%20Blue%20Diamond.png" alt="Diamond" width="15" height="15" style="opacity: 0.5;" />
-
+<br />
+<div align="center">
+  <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
+</div>
+<br />
   <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Arkmedess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aRKMEDESS&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <br><br><br>
+  <br><br>
 
-  <p style="font-size: 11px; letter-spacing: 1px;">
+<img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
+<br><br>
+
+<p style="font-size: 11px; letter-spacing: 1px;">
     <a href="mailto:arthurvictor3434@gmail.com" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">EMAIL</a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="SEU_LINKEDIN" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">LINKEDIN</a>
-  </p>
+    <a href="https://www.linkedin.com/in/arthur-victor-/" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">LINKEDIN</a>
+</p>
 
 </div>
