@@ -5,7 +5,7 @@
 
 
   <p style="font-family: monospace; color: #ff; max-width: 450px; font-size: 13px;">
-    Architecting solutions in <strong style="color: #4B8BBE;">Python</strong> & <strong style="color: #fff;">NextJS</strong>.
+    Architecting solutions in <strong style="color: #4B8BBE;">Backend</strong> & <strong style="color: #fff;">Frontend</strong>.
   <br>
     Data Analysis • Full-stack Development • Process Automation
   </p>
@@ -33,6 +33,7 @@
 <div align="center">
   <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
 </div>
+
 <br />
   <br>
 
@@ -40,7 +41,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aRKMEDESS&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <br><br>
+  <br>
 
 <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
 <br><br>
