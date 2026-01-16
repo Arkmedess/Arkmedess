@@ -46,10 +46,12 @@
 <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
 <br><br>
 
-<p style="font-size: 11px; letter-spacing: 1px;">
-    <a href="mailto:arthurvictor3434@gmail.com" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">EMAIL</a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arthur-victor-/" style="color: #000; text-decoration: none; border-bottom: 1px solid #000;">LINKEDIN</a>
-</p>
+  <a href="https://www.linkedin.com/in/arthur-victor-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/-%7C-222?style=for-the-badge&color=222" alt="separator" />
+  <a href="mailto:arthurvictor3434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
