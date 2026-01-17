@@ -37,19 +37,21 @@
 <br />
   <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Arkmedess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aRKMEDESS&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Arkmedess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkmedess&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   <br>
 
 <img src="https://placehold.co/1000x1/FFFFFF/FFFFFF.png" width="25%" height="1" alt="linha divisória" />
 <br><br>
 
-  <a href="https://www.linkedin.com/in/arthur-victor-/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-victor-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <img src="https://img.shields.io/badge/-%7C-222?style=for-the-badge&color=222" alt="separator" />
+  
   <a href="mailto:arthurvictor3434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
