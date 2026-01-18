@@ -37,7 +37,7 @@
 <br />
   <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true) <br/>
+[![Estatísticas de Streak](https://nirzak-streak-stats.vercel.app/?user=Arkmedess&theme=gotham&hide_border=true)](https://github.com/Arkmedess)
 
   <br>
 
