@@ -1,27 +1,19 @@
 ```sh
-[arkmedess@archlinux ~]$ whoami
-```
-```
+[arkmedess@Github ~] $ whoami
   name    : Arthur Victor
   role    : Developer · Data Analyst · Data Science Student
-  focus   : Architecting efficient solutions in Python and C#.
+  focus   : Architecting efficient solutions in Python and Csharp.
 ```
-
 ---
 
 ```sh
-[arkmedess@archlinux ~]$ ls ~/stack
+[arkmedess@Github ~] $ ls ~/stack
+  Python/ Csharp/
 ```
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white)
-
 ---
 
 ```sh
-[arkmedess@archlinux ~]$ cat ~/.config/contact
-```
-```
+[arkmedess@Github ~] $ cat ~/.config/contact
   github   : github.com/arkmedess
-  linkedin : linkedin.com/in/arthurvictor
+  linkedin : linkedin.com/in/arthur-victor-/
 ```
